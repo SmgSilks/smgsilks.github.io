@@ -1,5 +1,6 @@
 const buyersGroupUrl = "";
 const facebookUrl = "";
+const instagramUrl = "https://www.instagram.com/smgsilkskanchi/";
 const toast = document.getElementById("toast");
 
 function notify(message){
