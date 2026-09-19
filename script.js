@@ -1,5 +1,5 @@
-const buyersGroupUrl = "";
-const facebookUrl = "";
+const buyersGroupUrl = "https://chat.whatsapp.com/HqwmzCiuklwAVp13SI4Dta";
+const facebookUrl = "https://www.facebook.com/profile.php?id=61594433850574";
 const instagramUrl = "https://www.instagram.com/smgsilkskanchi/";
 const toast = document.getElementById("toast");
 
