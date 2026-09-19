@@ -13,7 +13,7 @@ document.getElementById("saveContact").addEventListener("click",(e)=>{
   const vcard=[
     "BEGIN:VCARD","VERSION:3.0","FN:SMG SILKS","ORG:SMG SILKS",
     "TEL;TYPE=CELL,VOICE:+917418989145",
-    "ADR;TYPE=WORK:;;#6A, Vilakkadi Kovil Street;Kancheepuram;;Tamil Nadu;India",
+    "ADR;TYPE=WORK:;;#6A, Vilakkadi Kovil Street;Kancheepuram;;Tamil Nadu;631501;India",
     "NOTE:Where Tradition Meets Elegance","END:VCARD"
   ].join("\r\n");
   const blob=new Blob([vcard],{type:"text/vcard;charset=utf-8"});
